@@ -34,5 +34,5 @@ if __name__ == '__main__':
         print("Example: ./0-fizzbuzz.py 89")
         sys.exit(1)
 
-        number = int(sys.argv[1])
-        fizzbuzz(number)
+    number = int(sys.argv[1])
+    fizzbuzz(number)
